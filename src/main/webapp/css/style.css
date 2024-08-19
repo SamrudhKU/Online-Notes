@@ -1,0 +1,25 @@
+
+
+.bg-custom{
+	background: #8e24aa;
+}
+
+.navbar .nav-item .nav-link{
+	font-size:20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+	background:white;
+	color: black;
+	border-radius:10px;	
+}
+
+.card-bg{
+	background-image: linear-gradient(to right bottom, #5ab764, #5cc370, #5ecf7c, #5fdc88, #60e895);
+}
+
+.div-bg{
+	background-image: linear-gradient(to right bottom, #b5bd4f, #c5a647, #cc8f4b, #cb7b55, #c06a61);
+	height:570px;
+}
